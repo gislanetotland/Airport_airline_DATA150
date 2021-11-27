@@ -1,4 +1,5 @@
 # Airport_airline_DATA150
+## Autumn 2021
 
 The goal of the assignment is to do the exploratory data analysis on your selected datasets. The
 purpose of this analysis to explain your dataset to someone who is interested in the topic the
